@@ -11,20 +11,12 @@ A real-time AI voice assistant supporting 8+ languages with STT/TTS pipelines, N
 ## Tech Stack
 Python, PyTorch, Hugging Face, LangChain, XLM-RoBERTa, STT/TTS
 
-## Installation
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/yourusername/Joey-Voice-Assistant.git
-cd Joey-Voice-Assistant
-pip install -r requirements.txt
-python joey_main.py
-
-
-
----
 
 
 
 
-### **Step 3: Add the link to your resume**
-- Under your **Joey project** section:  
+
+
+
+
+
